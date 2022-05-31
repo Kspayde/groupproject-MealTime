@@ -1,0 +1,5 @@
+Dim databasePath As String = Environment.GetEnvironmentVariable("HOMEDRIVE") + "\ProgramData\MealTime\HealthTrackDB.accdb"
+
+which for most people would be
+
+C:\ProgramData\MealTime\HealthTrackDB.accdb

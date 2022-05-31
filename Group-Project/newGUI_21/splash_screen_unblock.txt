@@ -1,0 +1,7 @@
+The simplest solution is to right-click the file in Windows Explorer, select Properties, and along the bottom of this dialog, you should have an "Unblock" option. Remember to click OK to accept the change.
+
+From:
+----------------------------------------------
+https://stackoverflow.com/questions/51348919/couldnt-process-file-resx-due-to-its-being-in-the-internet-or-restricted-zone-o
+
+https://stackoverflow.com/users/267/lasse-v-karlsen
